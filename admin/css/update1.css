@@ -1,0 +1,25 @@
+.ss{
+    margin:0!important;
+    padding:0!important;
+    background: #502096;
+    height: 59px;
+
+}
+.wid{
+    max-width: 60%;
+}
+
+a{
+    text-decoration: none;
+    color:#fff;
+    text-decoration: none;
+    list-style: none;
+    font-size:29px;
+    
+}
+a:hover{
+    color :#fff;
+}
+.backgroud3{
+    background: #1C1C34;
+}

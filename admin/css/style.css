@@ -1,0 +1,5 @@
+.back{
+    -moz-box-shadow: 0 0 5px 5px #888;
+  -webkit-box-shadow: 0 0 5px 5px#888;
+  box-shadow: 0 0 24px 9px #927575d1;
+}
